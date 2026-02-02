@@ -213,6 +213,11 @@ function registerMudeerShortcuts() {
 	["Quarter Middle-Left",new Tile(1,0,4,1),"x"],
 	["Quarter Middle-Right",new Tile(2,0,4,1),"c"],
 	["Quarter Far-Right",new Tile(3,0,4,1),"v"],
+	["Fifth first",new Tile(0,0,5,1),"1"],
+	["Fifth second",new Tile(1,0,5,1),"2"],
+	["Fifth third",new Tile(2,0,5,1),"3"],
+	["Fifth fourth",new Tile(3,0,5,1),"4"],
+	["Fifth fifth",new Tile(4,0,5,1),"5"],
 	["Three-Quarters Left",new Tile(0,0,4,1,3,1),"Shift+x"],
 	["Three-Quarters Right",new Tile(1,0,4,1,3,1),"Shift+c"],
 	["Whole",new Tile(0,0,1,1),"f"],]
